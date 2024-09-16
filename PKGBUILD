@@ -1,5 +1,5 @@
 # Maintainer: DarkXero <info@techxero.com>
-pkgname=calamares-cfg
+pkgname=calamares-cosmic-cfg
 _destname1="/etc"
 pkgver=3.3.9
 pkgrel=6
